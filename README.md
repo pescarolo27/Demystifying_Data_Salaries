@@ -1,3 +1,5 @@
+# Demystifing Data Salaries (Python)
+
 These projects were part of a three-part competition on DataCamp. Machine learning was only applied in the third & final level.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
