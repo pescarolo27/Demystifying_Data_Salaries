@@ -7,7 +7,6 @@ In this competition, you’ll explore and visualise salary data from thousands o
 
 **The Data:** The data comes from a survey hosted by an HR consultancy, available in `'salaries.csv'`.
 
-----------------------------------------------------------------------------------------------------------------------------------
-
+The project was done in June, 2025.
 These projects were part of a three-part competition on DataCamp. Machine learning was only applied in the third & final level.
  The first two notesbooks explored the data. The third notebook involved machine learning to create a predictive model regarding employee salaries.
