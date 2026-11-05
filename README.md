@@ -10,7 +10,7 @@ These projects, completed in June, 2025, were part of a three-part competition o
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Brief Summary
-These three projects analyzed over 57,000 survey responses of individuals within the tech industry regarding their employment details between 2020-2024. Through assessing particular subsets of individuals, a deeper understanding as to some recent/current trends of employees & salaries within the tech industry was uncovered. Such information can be used to assist companies within the industry in attracting the best candidates & to help drive success.  
+These three projects analyzed over 57,000 survey responses of individuals within the tech industry regarding their employment details between 2020-2024. Through assessing particular subsets of individuals, a deeper understanding as to some recent/current trends of employees & salaries within the tech industry was uncovered. Such information can be used to assist companies within the industry in identifying & attracting the best candidates & to help drive success.  
 No preprocessing was necessary.
 
 ### Part 1
