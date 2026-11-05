@@ -62,4 +62,26 @@ As such, it is fairly evident that employees in smaller companies faced an incre
 
 
 ### Part 3
-...
+The analyses examined employment & salary information of three specific jobs according to their country of residence, experience level, & how much they worked remotely. Regression models were then built & tuned to predict employee salaries based on a variety of factors including their experience level, company location, ratio of remote work, company size, employment type, job title, & employee residence. These models, some of which involved hyperparameter tuning, were evaluated using metrics including R-squared scores & mean-square-error terms in order to quantify their accuracy & predictive power. Importances of feature variables were also analyzed to assess which were more influential during the modeling process.  
+Recommendations as to the insights from these analyses can be referenced in the project file.
+
+#### Analysis I - Salaries by Country, Experience Level, Remote Work
+Salaries of **data analysts**, **data scientists**, & **machine learning engineers** were evaluated across their country of residence, experience level, & ratio of remote work.  
+Of the 57,194 records, 20,753 correspond to these three positions. Each account for between 5,000-10,000 survey responses. Generally, data analysts, data scientists, & machine learning engineers reported average salaries of approximately $109,000, $159,000, & $197,000 respectively.
+
+In summary:
+- **Data analysts** from Mexico, the US, & Australia generally reported the highest salaries. Senior- & executive-level data analysts reported the largest salaries. Fully-remote data analysts reported the largest salaries.
+- **Data scientists** from the US & Mexico generally reported the highest salaries. Executive- & senior-level data scientists reported the largest salaries. In-person data scientists data scientists reported the largest salaries.
+- **Machine learning engineers** from Ukraine, the US, & Australia generally reported the highest salaries. Executive- & senior-level machine learning engineers reported the largest salaries. In-person machine learning engineers reported the largest salaries.
+
+#### Analysis II - Predictive Modeling
+Regression techniques were utilized to predict employee salaries using information pertaining to their experience level, remote ratio, & company location. Specifically, linear & random forest regression algorithms were constructed, the latter of which included some hyperparameter tuning.
+
+Ultimately, both routes produced underwhelming results when it comes to their models & their metrics. Across both techniques, the best model had an R-squared score of about 16%. The best model, based on R-squared scores, was the random forest model that utilized hyperparameter tuning which involved a grid search cross validation technique to find the best combination of hyperparameter values. This model had a R-squared score of about 16.6%.  
+Regarding feature importances of the models, there was one common finding across all three models--employees' experience level is considerably important when it comes to predicting their salaries. For the other two variables--remote ratio & company location--the two algorithms came to opposing conclusions.
+
+#### Analysis III - More Predictive Modeling
+The random forest models from **Analysis II** were expanded to include additional feature variables such as employees' experience level, remote ratio, company location, company size, employment type, job title, & employee residence.
+
+Variables were added one at a time & models were evaluated to assess how much they contributed to predictive performance. Generally, none of the variables elevated the models except for the job titles. In particular, a random forest regression model with the features of experience level, company location, remote ratio, company size, job title, & employee residence yielded a R-squared score of about 30%.  
+Regarding the feature importances of this model, employees' experience level is considerably important when predicting salaries & remote ratios are somewhat important. Conversely, their company size, job title, country of residence, & company location are generally negligible, at least for the models produced.
