@@ -42,4 +42,24 @@ Across both of these methods, there were some commonalities in the positions. Fi
 As such, managerial jobs across these three fields appear to be particularly specialized & therefore command higher levels of pay within the tech industry. Such jobs are likely to be very competitive because companies will want to make sure that candidates are fully capable & worthy of positions that involve many responsibilities. As a consequence, companies should be willing to offer strong salaries to candidates whom meet their satisfaction in the hiring process.
 
 #### Analysis II - Remote Work & Average Salary
+Reported salaries were analyzed according to how much employees worked remotely as defined by three remote ratios. Employees either worked mostly remotely, mostly in person, or more-or-less evenly between remote & non-remote work (hybrid).  
+Firstly, while there large sample sizes of responses across all three remote ratios, only 271 responses correspond to hybrid employees, whereas the other two ratios each accounted for at least 12,500 responses. Such an imbalance could point to preferences among companies who hire such individuals & the tech industry in general in that hybrid work is not really offered. Alternatively, it could point to a bias in the people who were surveyed in that hybrid workers were not represented equally.
+
+Generally, hybrid workers reported salaries (~ $80,000) that were typically about half of those of either in-person or fully remote employees (~ $160,000 & $150,000 respectively). Such an imbalance may be related to a hiring preferential of companies in that they want candidates to fully commit to one way or the other when it comes to remote work.  
+Over the 2020-2024 period, average salaries of the three remote-work types were within about $30,000 of each other; however, by 2024, this difference had grown beyond $80,000. Average salaries of fully remote & in-person employees grew significantly, whereas that of hybrid employees actually decreased by about $5,000.
+
+Given these findings, it is fairly evident that in-person work became increasingly more valuable over these five years. Fully remote work also saw an increase in value but not quite to the same extent. Hybrid work, on the other hand, saw a small decrease in value from 2020-2024.
+
+#### Analysis III - Company Size & Salary
+Reported salaries were analyzed according to the size of the company employees worked at. Companies were labeled as either small (less than 50 employees), medium (between 50-250 employees), or large (more than 250 employees).  
+Of the three company sizes, only 204 correspond to small companies & 1,965 correspond to medium-size companies. Although this is slightly logical given how the groups were defined, such an imbalance could give a general indication as to the size of most companies within the tech industry. Alternatively, it could point to a bias in the people who were surveyed.
+
+Generally, workers from small companies reported salaries (~ $88,000) that were roughly half of those from medium-size or large companies (~ $160,000 & $153,000 respectively). Such an imbalance may be related to hiring capabilities of companies, their resources, & how they chose to allocate them when it comes to the salaries of their employees.  
+Over the 2020-2024 period, average salaries of the three companies were within roughly $37,000 of each other, but this disparity grew to over $70,000 in 2024. Average salaries of employees from medium-size & large companies grew considerably, whereas those of employees from small companies only increased by about $16,000.
+
+As such, it is fairly evident that employees in smaller companies faced an increasing disadvantage in terms of salary during these five years. It could be inferred that having more resources, as larger companies tend to have, is generally more of a benefit for employees in terms of what they earn & for companies in terms of what they can offer. Consequently, it allows them to more easily attract stronger talent.
+
+
+
+### Part 3
 ...
