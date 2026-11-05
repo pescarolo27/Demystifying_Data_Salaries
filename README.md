@@ -30,10 +30,16 @@ The proportions of US-based, full-time employees who worked fully remotely were 
 
 
 ### Part 2
-The analyses examined specific subsets of individuals & their salaries. In particular, employment & salary information was evaluated based on the top-earning positions, how much employees worked remotely, & the size of their company. In assessing such individuals, a deeper understanding as to some recent/current trends of employees & salaries within the tech industry was uncovered.
+The analyses examined employment & salary information according to the top-earning positions, how much employees worked remotely, & the size of their company. Recommendations as to the insights from these analyses can be referenced in the project file.
 
 #### Analysis I - Highest-Paying Jobs
 The jobs with the highest average salaries were identified to get a basic understanding as to which positions saw the most pay. To account for less-than-representative job titles, two methods were employed to obtain these job titles.
 
 Firstly, the five jobs with the greatest average salaries across all of the responses were identified & examined. They included (from highest to lowest): Analytics Engineering Manager, Data Science Tech Lead, Applied AI ML Lead, Head of Machine Learning, & Engineering Manager. Their average salaries ranged between $262,000-$400,000.  
 Second, the five jobs with the greatest average salaries of those with at least three survey responses were retrieved & analyzed. They included (from highest to lowest): Head of Machine Learning, Engineering Manager, Head of AI, Machine Learning Model Engineer, & Director of Machine Learning. Their average salaries ranged between $242,000-$289,000.
+
+Across both of these methods, there were some commonalities in the positions. Firstly, two of the jobs--Head of Machine Learning & Engineering Manager--directly overlapped. Additionally, of these eight positions, seven of them refer to titles that directly oversee & direct other employees such as managers, leads, heads, or directors. Moreover, three of them relate to engineering, four relate to machine learning (ML), & two relate to artificial intelligence (AI).  
+As such, managerial jobs across these three fields appear to be particularly specialized & therefore command higher levels of pay within the tech industry. Such jobs are likely to be very competitive because companies will want to make sure that candidates are fully capable & worthy of positions that involve many responsibilities. As a consequence, companies should be willing to offer strong salaries to candidates whom meet their satisfaction in the hiring process.
+
+#### Analysis II - Remote Work & Average Salary
+...
